@@ -1,2 +1,3 @@
 # git-talks
-Sandbox talk
+
+This repository is represent Git usage in @MeilleursAgents/ops team.
