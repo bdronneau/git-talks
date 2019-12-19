@@ -5,4 +5,4 @@ This repository is represent Git usage in @MeilleursAgents/ops team.
 
 # License
 
-This project is licensed under typo the MIT license (see LICENSE file).
+This project is licensed under the MIT license (see LICENSE file).
